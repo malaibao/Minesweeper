@@ -1,4 +1,4 @@
-COSC 121 - Assignment 8 (March 16, 2018)
+Mini Game - Minesweeper(March 16, 2018)
 
 ------------------------------------------------------------
 Description
