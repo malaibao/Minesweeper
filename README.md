@@ -17,5 +17,5 @@ Things Implemented
 7. Show O-face while clicking on the tile
 8. Right-click to flag a suspected tile
 9. Right-click to unflag a flagged tile
-10. Show smiley face for winner or sad face for loser
+10. Show smiley face to winner and sad face to loser
 11. Record the name of the first three highest score of winners
