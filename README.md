@@ -3,7 +3,7 @@ Mini Game - Minesweeper(March 16, 2018)
 ------------------------------------------------------------
 Description
 ------------------------------------------------------------
-This project created a Minesweeper project using JavaFX.
+This project created a Minesweeper using JavaFX.
 
 ------------------------------------------------------------
 Things Implemented
